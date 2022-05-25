@@ -1,1 +1,1 @@
-# study
+# study자료 repo
