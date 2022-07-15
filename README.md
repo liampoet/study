@@ -10,5 +10,7 @@ Reading
   4. 웹 브라우저가 HTTP 요청을 서버로 전송합니다. (필요한 경우, HTTPS 보안 통신이 진행됩니다.)
   5. 웹 서버가 요청을 처리하고 응답을 다시 웹 브라우저로 전송합니다.
   6. 웹 브라우저가 전송 받은 콘텐츠를 렌더링합니다.
+
 - [Channy님의 글쓰기와 소통방식](http://channy.creation.net/blog/1620#comment-807601)
+
 - ***[TLS 핸드쉐이크](https://www.cloudflare.com/ko-kr/learning/ssl/transport-layer-security-tls/)***
