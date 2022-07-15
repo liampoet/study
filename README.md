@@ -4,7 +4,7 @@ Study
 Reading
 ---
 - ***[웹 브라우저와 웹 서버의 통신](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)***
-  **목차**
+  - 목차
   1. 웹 브라우저에 URL을 입력하고 Enter 키를 누릅니다.
   2. 웹 브라우저가 도메인의 IP 주소를 조회합니다. (먼저 캐시를 찾고, 그다음 DNS를 검색합니다.)
   3. 웹 브라우저가 찾은 IP 주소를 기반으로 서버와의 TCP 연결을 시작합니다.
